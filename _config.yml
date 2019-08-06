@@ -56,6 +56,9 @@ defaults:
 # Build settings
 markdown: kramdown
 
+# Allow future posting
+future: true
+
 # Kramdown options
 kramdown:
   # Prevent IDs from being added to h1-h6 tags
